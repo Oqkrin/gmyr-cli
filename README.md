@@ -1,2 +1,2 @@
-# gmyr
-Gui Makes You Rust
+# gmyr-cli
+Gui Makes You Rust cli
