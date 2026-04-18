@@ -1,6 +1,10 @@
 [package]
-name = "gmyr"
+name = "gmyr-cli"
 version = "0.1.0"
 edition = "2024"
+authors = ["0qk"]
+description = "Gui Makes You Rust cli"
 
 [dependencies]
+clap = { version = "4.6.1", features = ["derive"] }
+anyhow = "1.0.102"
